@@ -79,7 +79,9 @@ Establishing reproducible, data-driven approaches to medicinal chemistry.
 
 
 **Arnab Manna**
+
 💼 Aspiring Bioinformatics & Data Science Researcher
+
 📫 LinkedIn Profile
  (https://www.linkedin.com/in/arnab-manna-b41297190/)
 
