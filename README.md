@@ -73,11 +73,9 @@ Prioritizing active compounds for downstream testing.
 Establishing reproducible, data-driven approaches to medicinal chemistry.
 
 📂 **Files in this Repository**
-File	Description
-Computational Drug Discovery [Part 1] Download Bioactivity Data.ipynb	Data extraction and preprocessing from ChEMBL
-Computational_Drug_Discovery_[Part_2]_Exploratory_Data_Analysis.ipynb	Lipinski descriptors, pIC₅₀ transformation, and EDA
-Bioactivity_data_curated.csv	Cleaned and labeled dataset
-Bioactivity_data_pIC50.csv	Final processed dataset with descriptors
+1. Computational Drug Discovery [Part 1] Download Bioactivity Data.ipynb
+2. Computational_Drug_Discovery_[Part_2]_Exploratory_Data_Analysis.ipynb
+
 
 
 **Arnab Manna**
